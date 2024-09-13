@@ -8,12 +8,9 @@
     max-width: 100%;
 }
 
-.sliderphoto{
-}
-
-
 .carousel-item img {
-    height: 500px;
-    object-fit: cover;
-  }
+    border: 2px solid #bce0f1; /* Add a border with a light gray color */
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
   
